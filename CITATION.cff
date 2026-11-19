@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Sauna Traditions of the World"
+abstract: >-
+  A reference dataset of 28 sauna and bathing traditions with heat source,
+  typical temperature and humidity ranges, rituals, cooling practice, UNESCO
+  status and headwear customs. Compiled reference ranges from general published
+  descriptions, not measurements.
+authors:
+  - name: "DIVELUX"
+    website: "https://diveluxsaunahat.com"
+version: "1.0"
+date-released: "2026-11-19"
+url: "https://diveluxsaunahat.com/pages/sauna-tools"
+license: CC-BY-4.0
+keywords:
+  - sauna
+  - banya
+  - hammam
+  - bathing culture
+  - cultural heritage
+  - reference data

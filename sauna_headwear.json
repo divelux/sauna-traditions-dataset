@@ -1,0 +1,134 @@
+[
+  {
+    "headwear_name": "Banya hat",
+    "local_name": "банная шапка; шапка для бани (shapka dlya bani)",
+    "tradition": "Russian banya",
+    "region": "Russia, Ukraine, Belarus and neighboring countries",
+    "material": "Wool felt (most common); also linen or cotton",
+    "shape": "Bell or cone, often with a hanging loop; novelty shapes are common",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head, ears and hair from the hottest air near the ceiling",
+    "notes": "A standard part of the banya kit along with a whisk and a sheet or towel."
+  },
+  {
+    "headwear_name": "Finnish sauna hat",
+    "local_name": "saunahattu",
+    "tradition": "Finnish sauna",
+    "region": "Finland",
+    "material": "Wool felt",
+    "shape": "Bell or cone",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head and hair from hot upper air",
+    "notes": "Used by some bathers, especially in very hot saunas; many Finns bathe without one."
+  },
+  {
+    "headwear_name": "Estonian sauna hat",
+    "local_name": "saunamüts",
+    "tradition": "Estonian sauna",
+    "region": "Estonia",
+    "material": "Wool felt",
+    "shape": "Bell or cone",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head and hair from hot upper air",
+    "notes": null
+  },
+  {
+    "headwear_name": "Latvian pirts hat",
+    "local_name": "pirts cepure",
+    "tradition": "Latvian pirts",
+    "region": "Latvia",
+    "material": "Wool felt",
+    "shape": "Bell or cone",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head during long whisking rituals",
+    "notes": null
+  },
+  {
+    "headwear_name": "Lithuanian pirtis hat",
+    "local_name": "pirties kepurė",
+    "tradition": "Lithuanian pirtis",
+    "region": "Lithuania",
+    "material": "Wool felt",
+    "shape": "Bell or cone",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head during long whisking rituals",
+    "notes": null
+  },
+  {
+    "headwear_name": "German sauna hat",
+    "local_name": "Saunahut; Saunamütze",
+    "tradition": "German Aufguss sauna",
+    "region": "Germany, Austria, Switzerland",
+    "material": "Wool felt",
+    "shape": "Bell or cone",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Insulates the head and hair, especially during an Aufguss when hot air is fanned toward bathers",
+    "notes": null
+  },
+  {
+    "headwear_name": "Japanese sauna hat",
+    "local_name": "サウナハット (sauna hatto)",
+    "tradition": "Japanese sauna",
+    "region": "Japan",
+    "material": "Wool felt or cotton terry",
+    "shape": "Bell, cone or bucket",
+    "worn_dry_or_wet": "dry (wool felt); varies (cotton terry)",
+    "purpose": "Shields the head, ears and hair from dry heat",
+    "notes": "Became a popular accessory during Japan's recent sauna boom."
+  },
+  {
+    "headwear_name": "Bucket-style felt sauna hat",
+    "local_name": null,
+    "tradition": null,
+    "region": "Worldwide (modern)",
+    "material": "Wool felt",
+    "shape": "Bucket with a short brim",
+    "worn_dry_or_wet": "dry",
+    "purpose": "Same insulation as a bell hat; the brim shades the ears, eyes and neck",
+    "notes": "A modern shape; fits like an everyday bucket hat."
+  },
+  {
+    "headwear_name": "Linen or cotton sauna cap",
+    "local_name": null,
+    "tradition": null,
+    "region": "Worldwide",
+    "material": "Linen or cotton",
+    "shape": "Soft cap or bell",
+    "worn_dry_or_wet": "varies",
+    "purpose": "Light cover for the hair",
+    "notes": "Thinner than felt, so it insulates less."
+  },
+  {
+    "headwear_name": "Sheep-head towel",
+    "local_name": "양머리 (yangmeori)",
+    "tradition": "Korean jjimjilbang",
+    "region": "South Korea",
+    "material": "Cotton towel",
+    "shape": "Small towel folded with a rolled bun over each ear",
+    "worn_dry_or_wet": "varies",
+    "purpose": "Keeps hair back and absorbs sweat; mostly a playful custom",
+    "notes": "A folded towel, not a heat-insulating hat."
+  },
+  {
+    "headwear_name": "Hammam head towel",
+    "local_name": null,
+    "tradition": "Turkish hammam",
+    "region": "Turkey, Middle East, North Africa",
+    "material": "Cotton towel",
+    "shape": "Towel wrapped turban-style around the hair",
+    "worn_dry_or_wet": "n-a",
+    "purpose": "Dries and covers the hair while resting after the wash",
+    "notes": "Worn after bathing, not in the hot room. The body wrap is a separate cloth, the peştemal."
+  },
+  {
+    "headwear_name": "Folded head towel",
+    "local_name": "手ぬぐい (tenugui) or small towel",
+    "tradition": "Japanese onsen",
+    "region": "Japan",
+    "material": "Cotton",
+    "shape": "Small towel folded flat on top of the head",
+    "worn_dry_or_wet": "varies",
+    "purpose": "Keeps the towel out of the bath water",
+    "notes": "A bathing habit in onsen and sento, not heat protection."
+  }
+]

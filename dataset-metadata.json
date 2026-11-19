@@ -1,0 +1,17 @@
+{
+  "title": "Sauna Traditions of the World",
+  "id": "divelux/sauna-traditions-of-the-world",
+  "subtitle": "Reference ranges and customs for 28 sauna and bathing traditions",
+  "description": "A small reference dataset of sweat-bathing and hot-bathing traditions: Finnish sauna, smoke sauna, Russian banya, Baltic pirtis and pirts, German Aufguss sauna, hammam, Japanese sento and onsen, Korean jjimjilbang, temazcal and more. Each row gives the heat source, typical temperature and humidity ranges, rituals, cooling practice, UNESCO status and whether headwear is traditionally worn. A second table lists types of bath headwear.\n\nThese are compiled reference ranges from general published descriptions, not measurements. Cells are left empty where sources disagree. Version 1.0 (2026-11). Published by DIVELUX, makers of wool sauna hats: https://diveluxsaunahat.com/pages/sauna-tools",
+  "isPrivate": false,
+  "licenses": [{"name": "CC-BY-4.0"}],
+  "keywords": ["culture and humanities", "health and fitness", "travel", "tabular", "beginner"],
+  "resources": [
+    {"path": "sauna_traditions.csv", "description": "Main table: one row per sauna or bathing tradition (28 rows, 25 columns)."},
+    {"path": "sauna_traditions.json", "description": "Same data as sauna_traditions.csv as a JSON array; empty cells are null."},
+    {"path": "sauna_headwear.csv", "description": "Types of bath headwear by tradition: material, shape, worn dry or not, purpose, region."},
+    {"path": "sauna_headwear.json", "description": "Same data as sauna_headwear.csv as a JSON array."},
+    {"path": "validate.py", "description": "Validation script: types, min <= max, Celsius/Fahrenheit agreement, vocabularies."},
+    {"path": "build_dataset.py", "description": "Source records; regenerates the CSV and JSON files."}
+  ]
+}
