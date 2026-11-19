@@ -193,3 +193,9 @@ You may share and adapt the data for any purpose, including commercially, as lon
 and link to https://diveluxsaunahat.com/pages/sauna-tools.
 
 Made by DIVELUX, makers of wool sauna hats.
+
+## Where to get it
+
+- Hugging Face: https://huggingface.co/datasets/divelux/sauna-traditions-of-the-world
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.24382690
+- GitHub: https://github.com/divelux/sauna-traditions-dataset
